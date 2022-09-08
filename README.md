@@ -10,3 +10,8 @@ You can find main parameters:
 3) Temperature 🌡
 4)Humidity💦
 5)Time of Sunrise and Sunset🌅🌄
+
+
+## Автор
+
+Kryukov George
