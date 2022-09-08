@@ -9,8 +9,8 @@ You can find main parameters:
 1) Weather conditions  ☀️ ☁️ ☔️ 
 2) Wind 💨
 3) Temperature 🌡
-4)Humidity💦
-5)Time of Sunrise and Sunset🌅🌄
+4) Humidity💦
+5) Time of Sunrise and Sunset🌅🌄
 
 
 ## Автор
